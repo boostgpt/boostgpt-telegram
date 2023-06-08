@@ -1,12 +1,6 @@
 # BoostGPT Telegram
 
-BoostGPT Telegram is a streamlined and user-friendly startup script that enables you to set up your own custom Telegram bot in a flash. With its cutting-edge artificial intelligence and powerful functionality, BoostGPT Telegram can help you automate tasks, improve workflow, and add an extra layer of fun and interactivity to your Telegram server.
-
-BBBBB    OOOOO   OOOOO   SSSSS  TTTTTTTT  GGGGG   PPPPPP  TTTTTTTT
-BB   B  OO   OO OO   OO SS         TT    GG   GG  PP   PP    TT    
-BBBBB   OO   OO OO   OO  SSSSS     TT    GG       PPPPPP     TT    
-BB   B  OO   OO OO   OO      SS    TT    GG   GGG PP         TT   
-BBBBB    OOOO0   OOOO0   SSSSS     TT     GGGGGG  PP         TT    
+BoostGPT Telegram is a streamlined and user-friendly startup script that enables you to set up your own custom Telegram bot in a flash. With its cutting-edge artificial intelligence and powerful functionality, BoostGPT Telegram can help you automate tasks, improve workflow, and add an extra layer of fun and interactivity to your Telegram server. 
 
 
 <a href="https://discord.gg/FPTmDNjA"><img src="https://img.shields.io/discord/1100801013121822770?color=%bbccff&label=Discord" alt="Discord"></a>
