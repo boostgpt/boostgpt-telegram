@@ -1,0 +1,26 @@
+{
+  "name": "boostgpt-telegram",
+  "version": "1.0.0",
+  "description": "BoostGPT Telegram is a streamlined and user-friendly SDK that enables you to set up your own custom Telegram bot in a flash.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bot",
+    "chatbot",
+    "AI",
+    "telegram",
+    "chatgpt",
+    "boostgpt",
+    "gpt",
+    "AGI"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "boostgpt": "^1.0.8",
+    "dotenv": "^16.0.3",
+    "node-telegram-bot-api": "^0.61.0"
+  }
+}
